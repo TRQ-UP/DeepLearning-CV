@@ -39,4 +39,16 @@
 * ├── predict.py：模型预测
 * └── train.py：模型训练
 
+4.study_4_mobilenet
+
+* ├── class_indices.json：分类的json文件
+* ├── model.py：模型结构
+* ├── mobilenet.pth:训练后模型
+* ├── mobilenet_v2.pth:预训练模型
+* ├── predict.py：模型预测
+* └── train.py：模型训练
+
+
+
+
    
