@@ -48,6 +48,18 @@
 * ├── predict.py：模型预测
 * └── train.py：模型训练
 
+5.study_5_effecientnet
+
+* ├── class_indices.json：分类的json文件
+* ├── efficientnetb0.pth:预训练模型
+* ├── model.py：模型结构
+* ├── predict.py：模型预测
+* ├── train.py：模型训练
+* ├── utils.py：辅助函数
+* └── weights:训练后的模型
+*     └── model-3.pth
+
+
 
 
 
