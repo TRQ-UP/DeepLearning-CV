@@ -1,0 +1,897 @@
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009176.jpg 52,118,452,357,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009162.jpg 220,64,461,331,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004308.jpg 50,129,294,400,7 1,61,118,329,19 172,47,500,398,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007167.jpg 9,98,347,219,6 51,107,500,306,6 338,114,388,171,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006735.jpg 40,24,402,490,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000344.jpg 89,2,307,441,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005566.jpg 80,39,422,293,6 209,8,253,36,6 441,1,500,37,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008042.jpg 75,138,500,364,17 67,61,213,261,14 96,269,121,344,4 116,268,135,334,4 123,255,142,319,4 145,259,171,326,4 154,240,173,307,4 38,193,57,261,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007588.jpg 160,55,215,156,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000224.jpg 36,159,220,337,19 401,245,500,375,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006899.jpg 19,334,135,452,16 135,305,234,423,16 388,277,445,424,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004718.jpg 1,1,49,102,4 95,7,340,341,14 45,1,499,374,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007577.jpg 332,31,500,280,14 217,41,389,236,14 118,34,238,218,14 3,53,143,192,14 441,67,470,122,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008888.jpg 183,92,250,159,19 235,142,412,373,8 1,181,63,345,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007952.jpg 223,138,333,303,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004283.jpg 153,1,375,499,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002816.jpg 51,145,454,307,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002157.jpg 8,87,496,219,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004526.jpg 104,74,436,239,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001310.jpg 163,198,284,338,16 263,90,381,326,14 67,110,104,199,14 19,132,43,166,14 19,164,61,206,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001477.jpg 196,84,458,287,16 93,172,227,312,16 37,202,208,338,16 13,1,77,84,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008453.jpg 281,105,340,152,7 72,91,238,359,14 225,1,500,362,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003506.jpg 63,42,261,287,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007774.jpg 1,43,384,375,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008321.jpg 2,28,326,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009017.jpg 182,29,458,373,14 142,32,311,252,14 90,66,206,243,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008309.jpg 82,97,394,373,14 3,65,231,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004527.jpg 295,171,450,289,16 238,148,387,186,16 270,141,422,178,16 74,132,228,274,16 1,108,69,204,16 104,107,198,131,16 232,110,294,140,16 205,100,334,137,16 189,174,308,298,16 435,112,493,145,16 8,127,139,236,16 369,105,419,141,16 412,138,469,252,16 302,110,371,149,16 124,125,149,154,16 65,113,117,138,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009942.jpg 11,1,221,207,14 2,9,365,332,14 265,2,500,332,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008484.jpg 1,1,407,315,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002181.jpg 367,1,468,156,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005836.jpg 71,40,263,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008137.jpg 295,43,355,176,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006668.jpg 94,28,435,334,6 27,69,134,214,14 1,1,70,258,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000231.jpg 87,110,278,206,5 337,124,366,227,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004725.jpg 189,85,381,320,14 8,57,470,375,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000225.jpg 125,96,355,263,16 2,22,47,81,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003089.jpg 192,74,452,333,13 148,31,290,319,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007589.jpg 351,179,381,263,14 122,166,305,292,6 206,143,229,167,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006697.jpg 41,77,260,337,14 255,82,500,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000345.jpg 249,119,499,280,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002552.jpg 102,241,170,348,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007358.jpg 5,7,470,344,6 5,113,71,158,6 68,91,110,220,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003658.jpg 25,10,496,333,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008902.jpg 125,269,155,319,4 93,56,388,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000392.jpg 100,96,355,324,12 198,58,286,197,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008527.jpg 86,110,246,222,9 142,146,340,375,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004447.jpg 429,181,494,235,1 177,255,345,346,1 312,125,358,307,14 69,128,98,220,14 52,139,79,216,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004453.jpg 68,78,416,312,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002977.jpg 295,78,433,288,11 191,116,321,264,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009822.jpg 147,170,184,195,6 113,170,150,203,6 342,184,358,221,14 108,180,132,200,14 142,177,164,228,14 196,183,217,228,14 22,226,84,300,13 98,234,155,309,13 166,249,225,341,13 244,271,320,372,13 216,208,262,266,13 79,213,117,273,13 256,230,314,344,14 177,221,220,314,14 104,204,153,284,14 36,196,83,280,14 83,191,115,256,14 372,196,500,324,6 6,176,25,225,14 26,183,48,209,14 65,175,83,197,14 222,190,254,250,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000190.jpg 426,197,500,273,5 235,216,323,258,5 51,210,152,308,5 1,209,55,313,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006287.jpg 1,192,463,374,17 224,142,412,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000186.jpg 58,49,284,362,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000145.jpg 52,88,380,291,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002034.jpg 8,122,207,288,7 272,69,474,199,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005997.jpg 118,172,196,251,19 166,130,271,315,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002746.jpg 14,91,358,174,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009613.jpg 227,246,290,311,8 78,274,141,390,8 1,288,73,407,8 39,241,60,263,14 11,253,116,383,14 170,268,253,335,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006508.jpg 108,202,256,277,2 116,1,479,331,14 30,12,173,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001515.jpg 60,13,361,500,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000384.jpg 174,27,454,292,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003841.jpg 2,9,408,445,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003699.jpg 224,72,298,178,15 1,65,434,312,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008914.jpg 166,103,355,342,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001930.jpg 335,113,390,181,18 79,73,217,203,18 220,126,314,327,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009388.jpg 314,173,386,233,19 259,153,320,219,19 234,265,417,375,8 100,177,163,252,19 54,228,73,279,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005559.jpg 105,12,500,375,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003128.jpg 174,137,288,206,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009411.jpg 62,112,463,335,6 424,150,456,191,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003882.jpg 54,83,151,155,15 129,102,206,166,15 181,93,267,172,15 237,117,326,187,15 302,119,400,200,15 375,140,491,293,15 12,142,89,243,15 58,143,143,255,15 112,156,202,275,15 159,157,258,298,15 227,171,337,321,15 302,177,426,333,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005565.jpg 119,255,206,337,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004082.jpg 170,74,261,331,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006695.jpg 307,153,433,370,14 196,123,327,373,14 72,138,206,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008860.jpg 1,4,289,294,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001844.jpg 134,112,285,209,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004914.jpg 78,6,373,354,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008109.jpg 72,132,257,309,12 257,133,449,268,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007206.jpg 109,165,250,270,18 284,199,306,257,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007789.jpg 125,125,165,194,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000970.jpg 344,128,414,214,18 1,64,500,375,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002815.jpg 1,33,333,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002626.jpg 92,275,132,376,14 27,284,65,423,14 1,284,29,412,14 177,274,224,398,14 254,284,309,415,14 259,249,374,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004525.jpg 373,1,500,120,8 48,1,500,334,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001307.jpg 267,136,367,270,1 375,85,408,143,14 353,82,373,136,14 338,90,358,114,14 200,56,237,128,14 19,8,270,334,14 372,63,476,334,14 287,63,356,192,14 458,79,496,128,14 168,67,196,95,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002169.jpg 3,102,318,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007993.jpg 5,95,481,250,0 4,197,166,245,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009772.jpg 5,145,375,500,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006441.jpg 1,184,69,262,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006327.jpg 44,61,237,342,5 311,219,334,310,14 279,231,297,283,14 266,229,283,293,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002196.jpg 4,2,375,500,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003288.jpg 111,247,227,311,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003713.jpg 176,230,228,276,6 2,217,75,344,6 283,234,324,255,6 372,221,496,287,6 315,216,370,255,6 80,204,140,271,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004068.jpg 306,184,348,328,4 270,172,305,241,4 260,18,430,259,14 86,22,195,151,8 1,38,112,138,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006864.jpg 336,1,500,325,14 237,6,380,283,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002394.jpg 150,214,281,369,19 71,35,108,65,14 32,31,50,105,14 4,31,27,105,14 15,29,33,105,14 92,147,117,172,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000583.jpg 13,87,490,248,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006858.jpg 122,128,205,295,12 196,43,299,300,14 1,75,137,186,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005216.jpg 192,48,314,349,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005202.jpg 65,91,356,255,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000352.jpg 33,68,149,247,14 131,68,210,249,14 198,59,309,284,14 294,83,500,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000434.jpg 95,73,425,263,12 187,44,291,208,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002223.jpg 357,214,375,311,14 321,215,354,317,14 266,225,295,346,14 1,1,220,476,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001919.jpg 203,85,350,212,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001272.jpg 182,87,242,202,4 181,154,300,264,4 103,22,469,414,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001266.jpg 1,88,477,332,13 128,22,315,332,14 281,2,500,332,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003471.jpg 147,54,235,142,16 308,48,468,135,16 242,77,500,333,16 98,135,344,333,16 12,98,222,158,16 215,52,421,141,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005000.jpg 64,163,359,375,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005766.jpg 190,92,252,202,14 356,87,404,173,14 350,94,464,216,14 14,140,102,261,8 459,138,500,259,8 387,146,462,261,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001500.jpg 203,52,342,168,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002021.jpg 26,91,229,278,9 175,39,500,277,9 174,189,270,312,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005028.jpg 4,77,312,322,6 294,118,495,292,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002035.jpg 181,147,500,374,17 266,54,406,180,15 89,102,128,162,15 14,1,104,132,15 130,103,182,146,15 146,38,183,107,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005969.jpg 41,59,353,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001299.jpg 39,26,229,412,9 211,240,319,408,9 318,221,408,435,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000801.jpg 55,139,243,221,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002794.jpg 114,21,425,360,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000197.jpg 35,56,466,259,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008246.jpg 8,50,177,213,5 170,60,308,176,5 302,66,424,150,5 424,103,495,135,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004332.jpg 157,328,299,470,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008508.jpg 42,46,350,500,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006914.jpg 238,180,269,235,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004865.jpg 17,52,417,291,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001060.jpg 411,183,500,212,6 155,197,183,234,1 157,172,187,232,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007363.jpg 32,98,419,264,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004130.jpg 28,75,426,331,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008871.jpg 26,21,487,409,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008865.jpg 272,161,500,303,14 155,187,500,334,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005414.jpg 59,105,217,333,13 265,121,443,333,13 196,40,290,330,14 283,55,433,330,14 432,95,487,150,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005400.jpg 1,41,500,375,17 111,79,414,375,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001100.jpg 152,146,327,284,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003059.jpg 217,129,275,210,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002353.jpg 34,247,177,375,8 202,233,254,327,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007798.jpg 29,1,340,463,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003515.jpg 66,61,494,339,6 339,65,369,117,14 472,95,500,146,14 79,85,119,130,14 100,92,111,106,14 2,83,47,153,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007015.jpg 102,92,424,236,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004246.jpg 98,148,242,375,14 34,4,428,299,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007029.jpg 372,129,500,323,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004253.jpg 141,192,252,337,8 181,163,267,291,8 274,182,352,308,8 167,179,348,332,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003299.jpg 2,3,499,260,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000948.jpg 413,37,500,166,19 22,9,284,375,8 198,89,315,353,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002839.jpg 43,1,443,333,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002352.jpg 51,48,436,150,18 1,58,49,144,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006646.jpg 266,295,312,362,19 40,321,122,481,8 38,271,117,461,14 163,295,269,436,14 124,259,160,374,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002346.jpg 95,78,398,282,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009213.jpg 308,204,426,287,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001115.jpg 104,113,500,261,18 1,117,86,229,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008858.jpg 209,60,378,302,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004910.jpg 22,182,306,394,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000425.jpg 1,3,500,333,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008737.jpg 78,1,500,333,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004694.jpg 49,71,203,255,14 95,185,202,466,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002583.jpg 2,1,500,254,0 65,266,390,375,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009603.jpg 5,153,493,375,3 330,86,456,373,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006530.jpg 40,176,192,282,8 216,180,500,330,17 244,262,500,375,8 3,168,41,251,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006518.jpg 1,45,493,372,1 54,24,500,326,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007606.jpg 119,41,415,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008253.jpg 89,132,427,325,14 350,4,500,200,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003306.jpg 40,109,396,291,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006281.jpg 1,206,172,337,3 157,169,500,334,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009818.jpg 314,223,351,254,16 242,181,273,205,16 66,204,91,229,16 15,202,42,222,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009830.jpg 43,18,401,315,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002797.jpg 381,192,422,257,13 383,170,420,243,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007162.jpg 8,46,500,289,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005013.jpg 65,72,464,285,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000631.jpg 198,31,420,340,3 68,75,259,331,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003338.jpg 196,75,334,285,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002581.jpg 453,184,500,314,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008053.jpg 10,346,98,489,2 129,213,204,500,2 135,369,224,475,2 86,8,224,439,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001705.jpg 5,51,500,344,3 444,234,465,374,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009417.jpg 62,29,144,93,16 216,183,299,266,16 238,94,330,220,16 136,54,164,94,16 368,15,401,36,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004655.jpg 441,181,493,244,8 61,211,142,273,8 169,199,240,262,8 200,272,403,346,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000427.jpg 39,24,386,275,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008682.jpg 55,96,496,265,6 47,50,94,200,14 80,42,141,117,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006693.jpg 65,96,288,220,6 302,82,500,184,6 433,60,456,83,14 487,53,500,84,14 458,63,474,83,14 273,71,302,156,14 250,80,266,107,14 225,77,238,96,14 207,80,227,98,14 86,83,119,124,14 37,90,65,169,14 6,96,34,171,14 203,104,226,128,14 131,103,173,136,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002393.jpg 56,40,162,85,6 136,33,302,103,6 449,35,500,92,6 111,49,500,321,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005403.jpg 134,121,283,191,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003700.jpg 423,110,491,369,14 283,121,339,333,14 196,135,253,294,14 221,131,271,275,14 57,169,100,351,14 83,167,148,372,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001881.jpg 62,77,456,357,6 1,77,117,203,6 381,76,495,120,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000976.jpg 2,1,500,430,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006485.jpg 204,127,289,236,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005167.jpg 242,169,270,215,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002152.jpg 284,196,400,284,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000023.jpg 9,230,245,500,1 230,220,334,500,1 2,1,117,369,14 3,2,243,462,14 225,1,334,486,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007758.jpg 54,50,196,215,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000751.jpg 79,48,412,309,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000989.jpg 52,117,109,177,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006484.jpg 301,192,458,329,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002190.jpg 174,156,305,312,12 153,90,230,222,12 422,173,474,231,14 181,3,250,126,14 240,97,326,306,14 1,103,40,291,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008668.jpg 178,29,489,330,6 1,86,197,321,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002423.jpg 233,146,410,237,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002351.jpg 1,121,399,287,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008640.jpg 37,49,192,233,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009589.jpg 12,116,378,322,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005238.jpg 12,125,485,231,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002557.jpg 421,76,466,172,15 281,65,342,112,15 330,46,410,113,15 196,2,261,108,15 118,3,212,114,15 100,87,146,123,15 63,89,103,128,15 38,1,105,70,15 25,143,94,245,15 169,177,224,230,15 133,173,182,215,15 86,184,143,234,15 228,188,291,238,15 277,151,345,222,15 340,179,405,267,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003675.jpg 185,133,271,227,2 144,110,242,163,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001076.jpg 27,81,224,141,3 418,83,496,120,3 114,114,328,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000397.jpg 142,206,213,261,19 271,192,313,273,8 32,186,64,249,15 1,153,37,249,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005748.jpg 336,1,463,201,14 128,66,414,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003339.jpg 21,24,314,288,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002999.jpg 288,118,461,226,13 121,112,270,193,13 38,92,164,169,13 344,74,447,180,14 175,85,265,189,14 75,64,158,141,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004318.jpg 1,61,365,283,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003477.jpg 98,115,259,351,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002769.jpg 6,45,495,276,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008244.jpg 118,2,500,344,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000618.jpg 1,35,150,212,0 124,35,489,291,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001506.jpg 189,71,286,354,14 373,105,478,347,14 37,119,125,340,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009628.jpg 1,123,124,375,14 78,116,341,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008293.jpg 107,195,163,250,5 163,48,333,379,5 266,144,333,232,14 43,194,114,403,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007879.jpg 109,11,469,250,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008592.jpg 2,209,128,427,16 40,222,320,427,16 30,60,135,138,4 309,158,393,248,4 373,10,478,426,14 108,3,284,420,14 100,4,264,227,14 272,4,497,424,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009115.jpg 135,135,343,299,1 126,59,267,367,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000125.jpg 425,218,500,275,1 436,188,467,223,14 382,209,415,272,14 353,213,383,276,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008579.jpg 297,213,478,308,13 47,185,229,308,13 248,181,299,337,14 202,181,245,324,14 195,160,211,198,14 157,161,177,196,14 91,164,111,191,14 73,163,90,223,14 58,162,75,220,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007892.jpg 174,94,302,479,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004425.jpg 70,28,291,394,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009129.jpg 80,67,480,326,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009897.jpg 236,68,467,317,9 125,146,267,294,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007676.jpg 79,47,500,333,0 1,246,23,270,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004196.jpg 148,71,351,229,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001950.jpg 153,240,170,291,14 335,344,354,375,14 187,340,209,375,14 157,339,176,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002295.jpg 84,1,499,331,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008948.jpg 3,159,182,323,8 251,129,367,246,8 474,123,500,201,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002242.jpg 1,127,276,332,6 164,75,387,178,5 414,135,500,196,6 345,127,370,192,14 208,127,264,328,14 244,120,295,303,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008753.jpg 363,274,482,367,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001824.jpg 157,71,309,227,19 213,170,500,375,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006187.jpg 61,33,375,500,14 1,43,218,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008182.jpg 39,30,448,248,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006636.jpg 26,75,355,238,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000521.jpg 247,125,327,250,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001165.jpg 115,311,191,348,1 192,317,266,358,1 274,252,313,355,14 252,243,282,352,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005471.jpg 303,28,455,174,8 19,28,274,332,14 274,26,497,308,14 162,238,190,305,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005317.jpg 18,44,500,375,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003766.jpg 1,31,439,355,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007500.jpg 38,244,108,397,4 32,26,265,383,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008633.jpg 125,4,292,80,1 128,2,270,59,1 296,12,500,233,6 2,5,196,244,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009908.jpg 107,110,253,268,9 277,160,317,180,2 146,70,181,119,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007919.jpg 167,114,448,280,12 266,49,323,208,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000737.jpg 255,122,401,259,12 463,197,473,227,4 434,168,500,284,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007058.jpg 1,152,472,400,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007716.jpg 197,122,372,319,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005115.jpg 111,46,382,375,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001415.jpg 361,257,412,310,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001372.jpg 300,76,333,233,14 185,72,294,476,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003203.jpg 1,95,417,235,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004578.jpg 426,185,500,228,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007071.jpg 1,2,360,333,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001366.jpg 286,271,351,330,11 102,261,139,329,11 209,149,262,275,14 257,149,296,280,14 282,165,375,331,14 57,179,122,330,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002647.jpg 221,174,306,212,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004550.jpg 179,132,281,241,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009060.jpg 51,67,500,333,6 2,105,125,224,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005882.jpg 131,231,257,497,12 143,150,252,341,14 233,340,335,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009706.jpg 114,223,469,375,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008632.jpg 155,122,431,242,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003773.jpg 13,121,485,230,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007273.jpg 75,121,486,268,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004034.jpg 102,118,375,458,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000252.jpg 194,168,297,241,6 147,54,283,224,5 239,112,266,135,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002519.jpg 55,2,476,375,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007461.jpg 288,3,323,58,4 323,2,355,128,4 254,2,288,55,4 217,1,249,56,4 183,1,218,124,4 147,3,182,124,4 111,2,146,126,4 75,3,110,123,4 36,1,72,122,4 5,2,38,122,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004801.jpg 258,127,412,333,14 1,14,482,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008949.jpg 235,1,500,207,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004815.jpg 187,122,373,262,12 369,112,426,257,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000497.jpg 6,203,418,472,13 157,170,298,462,14 340,178,389,258,14 399,238,423,305,14 439,220,468,302,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001206.jpg 274,1,429,288,14 172,141,236,326,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008544.jpg 4,20,500,309,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009896.jpg 139,134,372,323,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005048.jpg 137,12,362,340,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000130.jpg 4,1,500,249,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007688.jpg 4,37,500,373,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005935.jpg 58,191,104,223,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005923.jpg 278,213,417,329,1 218,213,293,322,1 126,216,229,354,1 168,170,221,287,14 224,153,274,249,14 310,142,387,308,14 206,94,234,127,8 277,98,308,126,8 299,110,337,147,8 175,120,213,170,17 284,160,308,192,15 449,105,500,189,15 376,63,409,124,15 221,131,274,171,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006594.jpg 76,130,255,288,1 1,188,84,295,1 260,208,330,311,1 1,171,75,330,14 84,143,238,382,14 292,172,330,260,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002902.jpg 163,85,300,224,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003349.jpg 88,55,327,289,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007649.jpg 175,2,500,375,14 2,24,179,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007885.jpg 16,29,344,485,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004354.jpg 29,1,488,319,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004432.jpg 2,23,498,498,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005076.jpg 15,4,500,267,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001576.jpg 51,172,458,280,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003361.jpg 209,249,270,287,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003836.jpg 158,269,235,284,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004181.jpg 8,8,500,311,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000495.jpg 104,16,400,266,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002533.jpg 37,41,431,356,6 301,121,500,271,6 416,64,500,293,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001984.jpg 15,1,288,373,11 226,105,387,319,11 352,107,500,372,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004630.jpg 110,96,176,289,14 159,82,245,341,14 212,88,353,374,14 331,77,435,373,14 203,15,328,375,14 3,113,273,375,14 460,110,486,195,14 419,107,456,203,14 3,11,434,135,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006999.jpg 11,33,381,375,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006769.jpg 111,99,487,354,12 74,190,124,253,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000318.jpg 322,79,436,167,6 201,81,301,143,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008988.jpg 2,95,375,329,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006806.jpg 93,114,351,360,15 294,1,500,196,15 95,1,299,124,15 1,2,89,301,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002453.jpg 17,22,252,207,7 262,34,486,193,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007503.jpg 15,37,500,366,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001614.jpg 158,43,436,372,9 100,231,154,319,9 416,100,500,364,9 367,252,440,315,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007271.jpg 51,129,352,268,5 413,204,427,234,14 91,214,138,281,14 58,235,160,301,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000278.jpg 294,156,500,375,11 111,89,417,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005300.jpg 220,40,347,248,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002651.jpg 256,57,500,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002137.jpg 301,269,375,367,16 206,249,298,316,16 89,236,202,401,16 219,267,308,409,16 80,118,139,369,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003573.jpg 60,96,178,375,14 160,135,274,375,14 323,123,421,375,14 446,92,500,375,14 417,174,450,228,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007700.jpg 202,11,280,213,4 70,64,170,222,14 282,71,342,176,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000053.jpg 36,12,425,262,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004584.jpg 6,89,498,327,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007270.jpg 128,181,274,299,6 443,125,475,210,14 350,158,445,188,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005301.jpg 53,213,231,461,1 224,224,331,424,1 56,50,233,422,14 229,93,331,326,14 199,72,263,167,14 232,65,283,146,14 286,61,331,105,14 30,73,76,220,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003764.jpg 96,40,202,203,12 103,13,189,131,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003002.jpg 1,89,119,389,15 121,104,317,418,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008157.jpg 397,107,498,327,14 353,68,451,296,14 261,87,403,330,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006146.jpg 108,197,275,294,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002320.jpg 69,33,282,202,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004976.jpg 311,108,476,221,14 224,98,350,226,14 177,132,247,263,14 43,139,196,332,14 128,193,500,338,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002491.jpg 258,288,375,500,14 40,261,284,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001832.jpg 1,1,500,375,14 1,78,416,375,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009329.jpg 5,3,498,333,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007304.jpg 115,179,333,500,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007462.jpg 167,107,284,321,16 162,32,213,130,16 4,151,49,205,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003176.jpg 139,160,287,311,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004631.jpg 221,359,362,500,8 194,153,298,414,14 89,154,251,496,14 36,156,88,231,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006032.jpg 121,248,211,319,1 288,246,396,319,1 362,249,456,315,1 141,203,176,317,14 192,209,235,304,14 315,209,379,315,14 383,207,421,314,14 190,234,259,305,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004816.jpg 113,37,365,294,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003189.jpg 175,170,271,334,12 163,54,289,284,14 177,328,268,477,15 90,269,139,359,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000480.jpg 293,162,419,375,14 114,165,228,373,14 5,172,116,373,14 2,68,486,325,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009671.jpg 45,195,203,261,6 253,206,444,284,6 192,202,333,255,6 109,180,128,202,14 146,180,166,200,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000655.jpg 199,81,359,296,14 100,120,426,315,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007648.jpg 33,171,294,375,14 279,163,348,235,14 313,182,446,375,14 329,262,494,375,8 139,226,350,375,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004341.jpg 73,54,392,355,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005088.jpg 23,142,102,264,14 93,153,153,213,14 164,153,246,284,14 408,103,493,195,15 40,193,132,301,15 122,198,209,308,15 274,129,354,313,14 287,160,403,339,14 323,132,499,374,14 2,172,284,316,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001588.jpg 1,135,59,234,19 100,130,251,217,17 302,133,500,286,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000696.jpg 103,90,430,214,0 101,245,121,284,14 175,284,196,312,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002091.jpg 1,1,493,357,3 316,117,366,209,14 186,127,220,206,14 48,146,93,216,14 1,184,26,257,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001201.jpg 195,173,309,293,13 234,53,315,217,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006208.jpg 2,106,499,266,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007116.jpg 31,37,473,304,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009649.jpg 324,188,434,336,14 302,128,405,340,14 277,75,364,212,14 197,138,297,258,14 196,96,307,335,14 116,86,290,347,14 53,86,344,375,14 385,72,495,283,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007894.jpg 274,134,331,189,16 337,135,415,193,16 285,193,472,344,16 132,181,301,316,16 19,145,93,238,16 57,140,107,216,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000889.jpg 37,287,186,486,15 181,362,302,458,15 188,2,327,394,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008972.jpg 85,82,478,482,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009339.jpg 383,2,500,276,8 106,22,460,319,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001003.jpg 111,102,351,254,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005271.jpg 103,73,375,296,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002250.jpg 256,157,291,203,14 225,185,281,259,14 75,107,335,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005259.jpg 19,69,433,302,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008769.jpg 221,24,500,373,14 9,53,286,373,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000453.jpg 267,139,305,181,14 9,121,483,294,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006817.jpg 170,110,227,195,19 226,111,302,195,19 334,105,391,196,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008184.jpg 108,366,208,500,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002481.jpg 15,19,316,426,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008806.jpg 418,173,442,245,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002495.jpg 1,28,461,355,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001822.jpg 135,192,437,262,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009259.jpg 211,98,295,192,14 167,121,339,232,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004033.jpg 70,7,120,138,14 120,36,217,168,13 183,2,326,196,13 189,1,447,280,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004027.jpg 223,260,280,320,15 178,22,333,401,15 66,38,239,415,15 86,256,201,449,15 1,214,124,417,15 78,365,146,460,15 17,348,71,433,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009265.jpg 30,1,382,322,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002683.jpg 130,123,348,293,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002697.jpg 25,26,216,498,11 199,42,422,404,11 241,375,480,498,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007062.jpg 1,36,436,375,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001361.jpg 44,35,422,333,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006426.jpg 191,181,369,500,14 121,127,233,486,14 1,150,196,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004557.jpg 44,1,500,373,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004543.jpg 13,45,340,333,6 233,39,500,228,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002655.jpg 82,84,423,303,12 164,50,286,212,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000730.jpg 5,52,495,234,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006369.jpg 18,110,424,301,6 435,102,446,131,14 450,108,500,146,6 479,96,500,156,14 334,95,380,121,6 367,100,401,137,14 400,125,425,167,14 179,13,235,64,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000718.jpg 148,25,358,374,11 2,1,223,249,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001360.jpg 7,91,448,272,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002331.jpg 138,87,288,333,12 114,12,309,265,14 222,54,479,333,14 2,56,53,103,6 70,52,120,101,6 224,57,292,99,6 292,54,370,97,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004754.jpg 1,270,133,500,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008608.jpg 3,2,498,330,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005476.jpg 93,106,375,500,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003761.jpg 207,215,328,375,8 74,178,197,375,8 148,176,368,375,10 304,147,368,219,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000283.jpg 333,110,456,421,14 82,14,191,301,14 331,257,436,455,1 86,130,184,354,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004783.jpg 256,155,290,178,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006745.jpg 263,189,347,264,8 159,156,203,211,8 102,218,178,320,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001994.jpg 210,141,420,240,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005270.jpg 49,113,500,360,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003601.jpg 43,96,489,311,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000308.jpg 351,100,433,190,14 224,124,308,269,14 144,153,243,321,14 163,114,225,167,14 216,107,276,154,14 33,136,396,317,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001764.jpg 278,103,349,147,9 221,106,282,148,9 134,103,223,148,9 98,97,144,133,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007315.jpg 151,243,226,341,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006786.jpg 82,1,324,358,14 296,24,451,328,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004813.jpg 65,189,146,305,8 224,185,327,296,8 295,178,500,375,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009112.jpg 35,57,361,298,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004436.jpg 108,154,243,382,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006547.jpg 23,97,273,500,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007895.jpg 1,59,285,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004422.jpg 323,143,415,220,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009106.jpg 1,105,356,340,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007103.jpg 154,274,248,382,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009648.jpg 272,1,374,234,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001200.jpg 16,8,475,321,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007671.jpg 80,55,354,487,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007856.jpg 151,118,394,230,6 91,101,121,156,14 70,104,101,157,14 32,90,52,116,14 15,92,35,115,14 12,103,43,160,14 34,105,54,158,14 47,103,80,157,14 26,66,40,85,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009847.jpg 200,117,302,194,6 7,241,45,333,14 52,239,104,332,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002910.jpg 264,123,426,314,8 89,123,232,285,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007840.jpg 11,33,268,486,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005716.jpg 1,7,295,297,14 368,1,500,206,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008540.jpg 176,37,414,333,1 1,1,198,283,1 249,1,433,206,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003415.jpg 197,2,500,217,7 128,153,334,373,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006223.jpg 128,90,426,266,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006237.jpg 58,83,109,175,12 95,33,281,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004420.jpg 65,38,303,294,14 281,142,490,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005058.jpg 131,266,177,304,16 86,285,127,315,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006551.jpg 260,198,362,311,1 226,183,319,273,1 104,181,216,287,1 107,110,199,269,14 227,126,286,207,14 261,125,355,269,14 5,96,32,148,14 31,100,64,150,14 63,98,89,148,14 13,125,80,235,14 61,135,111,231,14 95,129,128,177,14 334,111,368,153,14 370,110,395,153,14 390,108,425,227,14 423,117,450,155,14 447,116,496,225,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004805.jpg 106,17,407,331,13 355,54,498,179,6 2,53,136,181,6 43,59,252,129,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005299.jpg 124,23,449,318,12 1,40,286,318,12 156,1,223,47,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003830.jpg 43,20,500,341,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004187.jpg 212,309,301,365,6 316,330,493,375,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004839.jpg 134,111,201,284,3 51,121,112,253,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006021.jpg 69,46,249,169,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001028.jpg 52,231,301,500,14 7,29,406,493,14 359,164,406,229,14 306,174,357,232,14 285,173,321,221,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009299.jpg 88,224,500,333,10 401,62,500,313,14 266,65,403,280,14 1,47,115,308,14 194,1,225,55,4 279,1,301,56,4 14,15,28,54,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004781.jpg 56,72,93,103,19 47,120,86,172,19 88,123,129,174,19 350,129,394,199,19 392,129,446,210,19 212,205,318,330,8 1,188,93,324,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000281.jpg 47,93,436,254,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008150.jpg 331,178,358,197,16 297,180,316,195,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003993.jpg 45,87,418,245,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009500.jpg 375,253,475,363,14 62,236,172,374,14 228,215,385,374,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004030.jpg 131,67,455,299,5 332,200,500,325,6 210,186,286,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005879.jpg 5,33,310,494,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008391.jpg 5,46,497,307,6 205,118,247,178,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007934.jpg 29,152,321,373,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004540.jpg 8,141,333,316,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000732.jpg 52,232,334,450,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009070.jpg 88,163,426,353,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004554.jpg 80,16,475,284,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006425.jpg 74,37,300,490,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007921.jpg 58,257,234,351,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002871.jpg 1,236,75,282,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004757.jpg 58,50,122,103,2 289,117,448,336,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003951.jpg 126,65,248,279,14 44,117,295,430,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008192.jpg 225,181,366,315,16 422,170,500,340,16 384,144,500,248,16 151,54,281,274,14 169,100,188,136,4 61,107,104,158,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001808.jpg 253,62,322,317,14 368,67,417,218,14 422,85,489,332,14 1,76,57,312,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001001.jpg 62,64,325,375,7 315,102,427,356,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002508.jpg 67,52,444,293,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009449.jpg 127,133,468,330,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005298.jpg 16,100,166,333,14 246,43,371,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004838.jpg 3,108,434,336,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000492.jpg 329,253,450,375,8 338,227,416,338,8 12,287,228,375,8 26,229,348,375,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001954.jpg 18,54,166,194,6 1,37,82,372,6 118,119,337,251,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008970.jpg 252,81,371,242,15 65,77,190,204,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003819.jpg 146,52,386,264,11 69,208,322,360,11 1,1,221,235,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001559.jpg 197,185,224,215,6 146,175,183,226,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004435.jpg 157,45,327,333,14 302,151,376,333,14 12,199,185,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001565.jpg 98,107,461,243,18 1,115,87,218,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003414.jpg 72,125,468,316,6 65,133,150,174,6 104,128,240,183,6 32,123,50,163,14 19,125,37,164,14 79,107,100,128,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001203.jpg 31,6,327,208,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007672.jpg 1,166,128,316,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002939.jpg 283,161,316,226,4 159,101,336,375,14 266,206,369,361,8 38,108,121,233,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003399.jpg 35,62,246,213,5 114,97,166,276,14 217,130,430,286,14 464,120,493,260,14 331,119,358,179,14 358,151,398,192,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002087.jpg 45,134,120,340,14 1,153,33,351,14 106,131,167,273,14 119,127,224,375,14 196,101,331,375,14 440,255,500,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000860.jpg 81,85,428,292,6 224,35,281,86,14 298,45,358,115,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004389.jpg 61,239,308,496,12 135,73,263,325,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002934.jpg 31,5,393,441,7 2,263,392,500,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002075.jpg 209,74,421,212,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003343.jpg 167,82,407,333,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005732.jpg 349,232,450,406,12 249,209,336,408,12 38,171,195,401,12 348,166,453,385,14 229,157,351,374,14 44,115,173,373,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000138.jpg 6,56,154,285,14 145,58,283,258,14 224,54,440,332,14 363,96,500,332,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001226.jpg 105,50,499,274,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007482.jpg 96,103,242,266,14 237,76,370,265,14 389,75,500,299,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005281.jpg 121,244,177,336,1 132,181,190,322,14 59,199,89,318,14 17,179,68,352,14 97,228,110,253,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001756.jpg 132,303,175,447,4 256,104,363,415,14 5,33,262,453,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001187.jpg 21,410,230,500,8 185,363,366,500,8 107,270,360,396,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006617.jpg 88,89,362,267,12 224,36,281,192,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002465.jpg 46,14,500,322,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003035.jpg 54,193,306,486,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001385.jpg 179,118,365,194,5 104,156,179,189,6 46,157,89,188,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000064.jpg 1,23,451,500,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001408.jpg 114,245,178,448,4 56,107,230,387,14 20,68,50,167,4 210,1,333,108,14 84,87,333,366,14 119,1,184,130,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001420.jpg 192,109,340,270,12 281,80,364,268,14 436,148,500,306,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000058.jpg 334,1,436,373,14 196,80,309,326,14 279,53,334,267,14 29,109,359,375,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003551.jpg 32,112,432,291,6 1,106,217,194,6 298,99,358,118,6 339,104,418,133,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003223.jpg 136,230,230,299,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008411.jpg 3,4,299,374,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003544.jpg 366,184,500,375,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008405.jpg 315,50,435,161,19 181,58,288,160,19 73,50,192,161,19 157,123,177,170,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001347.jpg 113,65,450,375,14 203,63,493,357,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003578.jpg 77,120,354,404,13 3,185,207,295,6 274,155,375,327,6 104,162,217,203,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000071.jpg 61,75,443,274,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009055.jpg 143,24,428,332,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004571.jpg 224,120,387,243,9 56,42,168,236,9 209,51,239,157,14 237,56,263,150,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002114.jpg 324,159,397,375,14 311,100,358,169,14 34,1,500,375,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005451.jpg 238,103,375,500,14 156,357,237,466,14 78,362,137,479,14 80,396,220,495,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002458.jpg 22,150,102,203,13 39,131,69,185,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003752.jpg 404,323,500,351,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006602.jpg 92,121,205,237,11 202,365,293,489,14 22,254,85,445,14 99,365,191,465,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004001.jpg 377,130,476,197,5 429,166,456,203,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006170.jpg 147,134,174,176,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003154.jpg 162,102,468,302,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009479.jpg 2,278,357,500,17 145,261,293,327,7 3,291,104,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006038.jpg 176,220,256,257,6 373,233,447,315,13 379,195,429,290,14 397,203,443,292,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002510.jpg 174,121,488,329,17 3,127,177,271,8 178,102,220,183,8 160,102,277,160,10 143,4,174,103,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000475.jpg 213,153,343,259,16 328,85,363,133,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003829.jpg 1,34,438,333,18 385,158,415,227,14 433,189,456,259,14 472,181,487,219,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000105.jpg 22,1,320,314,3 202,71,295,215,14 170,107,239,206,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004411.jpg 1,41,429,375,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009653.jpg 2,37,168,375,14 164,85,337,375,14 119,23,500,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003418.jpg 151,259,205,384,11 1,355,182,447,11 253,244,354,380,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000850.jpg 213,71,334,209,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007859.jpg 1,4,469,337,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007865.jpg 389,192,429,306,15 53,185,97,311,15 231,108,314,262,8 295,105,351,234,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000885.jpg 11,12,485,456,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005057.jpg 167,112,355,312,1 178,38,334,278,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004349.jpg 88,50,156,88,2 149,90,217,129,2 150,57,220,100,2 151,323,228,363,2 262,300,371,348,2 372,285,454,323,2 443,175,500,221,2 266,174,362,217,2 345,121,419,162,2 358,5,434,42,2 260,6,323,45,2 75,289,181,342,2 199,285,258,331,2 323,275,409,314,2 329,200,400,232,2 158,246,274,304,2 104,209,181,257,2 81,142,149,204,2 150,128,219,183,2 370,91,453,138,2 287,70,352,122,2 183,38,234,74,2 202,202,298,253,2 448,20,488,70,2 387,41,460,91,2 354,53,405,108,2 226,110,298,166,2 305,105,356,152,2 344,159,411,201,2 426,3,474,31,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003426.jpg 107,15,363,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008956.jpg 157,26,365,319,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006947.jpg 152,81,428,347,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005296.jpg 170,262,500,374,6 1,258,114,348,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008759.jpg 147,1,500,374,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002260.jpg 107,61,447,287,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001741.jpg 1,111,115,251,9 332,133,375,156,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007324.jpg 97,238,401,375,1 197,264,500,375,1 171,111,418,375,14 250,101,500,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005533.jpg 113,193,176,348,14 158,178,214,344,14 260,196,303,286,14 262,206,332,302,14 34,216,82,301,14 2,216,26,268,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003963.jpg 53,194,95,243,19 270,230,397,359,17 312,241,335,258,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001806.jpg 274,192,328,361,9 114,266,180,376,9 60,213,162,382,14 117,157,209,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004942.jpg 247,134,437,338,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009533.jpg 155,123,318,196,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002314.jpg 112,1,333,276,9 38,2,255,218,9 1,50,45,86,9 54,270,298,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004995.jpg 200,166,309,302,12 225,140,265,250,14 106,214,235,390,12 158,168,227,330,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001635.jpg 459,135,500,167,12 261,143,294,168,12 134,142,155,172,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003750.jpg 361,163,449,362,9 125,50,353,262,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008605.jpg 53,134,126,172,9 146,131,192,224,9 127,86,160,145,14 242,83,274,142,14 211,133,303,229,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007913.jpg 242,56,500,375,15 19,94,126,375,14 221,90,326,266,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005686.jpg 364,215,465,363,8 299,200,404,349,8 289,191,500,356,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006402.jpg 30,73,65,157,4 71,75,107,162,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000073.jpg 121,143,375,460,15 2,154,64,459,15 270,155,375,331,3 22,143,146,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002670.jpg 22,143,374,429,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009043.jpg 169,120,277,225,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003220.jpg 1,227,61,294,6 51,241,113,294,6 169,231,243,283,6 246,243,304,279,6 288,247,341,278,6 327,248,369,274,6 100,231,199,375,14 378,237,398,288,14 1,96,363,222,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003546.jpg 132,82,257,228,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002880.jpg 51,35,388,471,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003552.jpg 63,121,500,283,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008361.jpg 216,1,500,273,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001344.jpg 60,60,374,375,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001422.jpg 68,87,453,278,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001436.jpg 185,125,330,167,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006359.jpg 193,43,217,129,4 221,45,244,127,4 82,142,186,230,15 167,40,500,272,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008374.jpg 258,223,320,294,19 323,216,403,288,19 185,181,271,375,14 292,202,369,373,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006417.jpg 78,109,401,262,6 1,126,79,278,6 8,116,105,190,6 283,82,499,233,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004214.jpg 185,101,361,231,13 214,67,312,212,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007906.jpg 64,60,480,283,6 1,7,243,155,6 316,26,405,59,6 419,30,489,68,6 470,42,500,109,6 141,5,265,60,6 285,17,341,55,6 393,25,440,60,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000258.jpg 192,123,404,333,11 350,27,500,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003745.jpg 71,37,251,465,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008610.jpg 186,73,337,291,12 373,53,452,293,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000264.jpg 2,82,333,500,13 115,47,309,475,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006198.jpg 125,107,186,174,14 82,99,123,305,14 436,78,489,360,14 434,61,500,375,14 327,79,368,159,14 283,61,344,175,14 4,82,96,375,14 342,95,443,375,14 97,83,338,375,14 199,82,376,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007286.jpg 160,58,362,271,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009297.jpg 374,134,394,206,4 397,164,426,248,4 426,199,454,262,4 205,71,280,153,14 169,66,262,183,14 101,74,305,334,14 2,107,190,375,14 412,71,484,181,14 444,80,500,224,14 181,150,500,374,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001768.jpg 1,63,261,344,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000476.jpg 126,110,358,373,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004162.jpg 76,380,103,480,4 160,384,183,482,4 289,397,321,490,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003180.jpg 134,60,448,368,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000890.jpg 398,148,462,310,15 361,253,411,307,15 325,189,394,309,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001542.jpg 3,99,434,316,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007655.jpg 4,18,500,354,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005042.jpg 158,205,302,462,1 4,182,147,428,1 155,37,328,399,14 1,46,157,394,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006205.jpg 250,184,328,303,3 394,260,425,293,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006211.jpg 151,239,201,283,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002077.jpg 1,68,374,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004360.jpg 18,65,333,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009877.jpg 3,102,289,500,14 270,185,326,406,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001585.jpg 197,115,328,358,14 6,180,425,341,17 58,158,72,191,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009132.jpg 72,48,425,309,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002067.jpg 172,40,398,321,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002701.jpg 339,260,500,318,6 133,267,305,323,6 7,267,28,321,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001787.jpg 147,101,277,347,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003812.jpg 199,88,369,375,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007321.jpg 231,186,324,326,7 153,39,213,160,14 68,2,252,226,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003147.jpg 153,145,366,257,11 54,34,139,248,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007309.jpg 5,28,332,470,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002271.jpg 127,96,365,203,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002265.jpg 1,39,206,500,14 71,210,315,349,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009293.jpg 52,1,298,448,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005456.jpg 263,91,320,201,12 110,29,212,213,12 116,14,179,126,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008172.jpg 200,134,445,442,11 57,14,479,488,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007241.jpg 7,71,479,365,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008166.jpg 151,178,349,236,3 351,143,411,176,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004760.jpg 210,114,495,375,11 1,1,177,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002846.jpg 48,153,112,259,8 128,13,285,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009091.jpg 213,108,394,375,14 266,22,427,375,14 153,22,277,375,14 1,13,59,375,14 19,1,89,230,14 96,1,176,196,14 238,1,301,124,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003543.jpg 210,60,367,189,3 357,143,403,184,3 1,85,173,374,3 7,55,38,134,14 54,56,114,264,14 112,63,138,118,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006349.jpg 5,36,495,256,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008402.jpg 56,146,188,333,14 160,133,263,333,14 237,146,293,333,14 284,171,377,333,14 307,156,352,235,14 331,168,388,333,14 362,166,427,333,14 398,153,500,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000076.jpg 63,78,265,375,14 257,75,448,375,14 362,130,446,261,14 472,157,500,343,14 457,209,478,255,14 439,170,458,216,14 247,142,288,197,14 44,162,84,286,14 77,157,120,245,14 1,159,26,283,14 24,174,45,201,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006375.jpg 371,142,437,182,6 194,155,291,218,6 28,160,196,306,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004562.jpg 267,3,360,256,14 2,2,83,123,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009735.jpg 54,365,100,429,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004577.jpg 79,80,267,195,7 212,89,426,271,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009084.jpg 43,77,481,375,13 127,68,237,240,11 1,217,98,375,11 451,83,500,191,8 369,83,437,180,8 313,76,375,137,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007095.jpg 226,130,437,290,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003581.jpg 2,24,265,375,14 305,30,498,375,14 274,1,321,69,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000936.jpg 299,10,347,63,0 314,105,364,156,0 334,149,378,200,0 261,208,305,254,0 155,277,201,329,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004007.jpg 238,123,305,199,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002476.jpg 89,5,459,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002462.jpg 54,75,500,158,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003754.jpg 249,313,301,351,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005331.jpg 71,142,291,448,12 101,84,245,304,14 84,87,161,140,6 1,91,40,140,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008615.jpg 50,170,118,209,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003973.jpg 1,163,208,356,5 204,284,356,340,6 472,276,500,344,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009286.jpg 1,96,500,328,6 110,3,360,167,14 121,2,206,135,14 437,2,498,90,14 397,2,431,86,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005480.jpg 125,148,362,405,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003783.jpg 160,322,206,421,4 71,284,133,392,4 91,256,141,357,4 138,276,178,383,4 177,254,222,373,4 184,172,239,312,4 269,157,314,259,4 232,141,271,270,4 206,180,239,277,4 128,232,174,309,4 100,203,137,281,4 109,159,149,237,4 126,147,155,205,4 148,125,178,190,4 143,205,187,305,4 213,143,238,216,4 219,107,243,174,4 227,86,255,147,4 254,121,283,189,4 294,142,321,234,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000301.jpg 8,295,375,487,6 15,318,106,365,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003608.jpg 86,64,443,285,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003146.jpg 43,153,214,319,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008952.jpg 287,121,358,236,13 268,111,361,167,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003813.jpg 1,8,305,333,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006200.jpg 202,70,466,375,14 412,174,500,338,14 69,279,260,375,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006566.jpg 53,4,204,236,14 31,42,138,241,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001553.jpg 213,113,297,187,1 249,330,316,367,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002099.jpg 1,92,500,331,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000856.jpg 174,68,311,314,14 5,190,500,375,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000840.jpg 1,179,288,345,17 334,75,385,135,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009864.jpg 1,143,363,245,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007861.jpg 125,28,367,184,6 56,77,79,126,14 47,80,63,131,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000129.jpg 70,202,255,500,1 74,1,272,462,14 252,19,334,487,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001545.jpg 132,171,338,240,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001223.jpg 15,120,486,254,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004401.jpg 174,71,279,189,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000101.jpg 40,64,400,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009643.jpg 208,195,305,249,5 344,213,366,238,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002716.jpg 8,181,223,296,5 3,127,293,248,5 8,109,316,218,5 74,67,376,186,5 107,49,404,159,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007493.jpg 235,146,489,375,14 35,4,373,375,14 1,191,22,291,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003811.jpg 130,87,313,269,3 301,204,429,256,3 15,87,40,131,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009333.jpg 100,86,312,238,19 207,202,352,268,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002272.jpg 1,227,341,375,1 1,3,341,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004788.jpg 72,89,413,354,12 196,49,316,220,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003965.jpg 236,105,381,326,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002448.jpg 169,93,279,281,14 41,146,360,435,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007242.jpg 1,184,45,262,6 55,1,500,375,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000505.jpg 197,58,398,161,6 245,79,405,204,6 158,158,386,287,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003018.jpg 110,58,300,389,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007929.jpg 80,172,171,409,14 172,176,277,359,14 156,137,280,459,14 254,137,479,462,14 312,150,426,413,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000934.jpg 1,36,500,291,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003232.jpg 24,47,256,182,12 141,22,199,132,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001425.jpg 208,179,383,301,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002138.jpg 2,28,333,318,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009723.jpg 1,69,499,365,6 1,15,105,120,6 89,22,181,47,6 374,26,497,91,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002104.jpg 224,16,380,330,14 38,82,478,302,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006362.jpg 40,28,406,332,6 1,114,146,277,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000074.jpg 58,61,475,283,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001356.jpg 26,61,500,294,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007733.jpg 58,204,454,382,7 82,1,482,133,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002850.jpg 327,86,481,219,19 196,80,314,192,19 128,226,309,374,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002461.jpg 164,49,320,270,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002313.jpg 5,62,461,428,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002475.jpg 306,228,370,314,1 225,213,288,301,1 151,204,217,294,1 72,188,142,279,1 310,173,363,299,14 312,146,405,316,14 235,161,284,280,14 256,139,302,299,14 149,154,206,267,14 171,125,235,290,14 75,141,133,258,14 92,122,164,282,14 263,125,283,166,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006613.jpg 321,170,435,279,13 85,16,139,95,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001815.jpg 85,150,313,291,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005483.jpg 63,72,376,230,6 1,150,89,257,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008819.jpg 131,79,294,450,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006773.jpg 4,127,440,333,0 3,200,25,260,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002501.jpg 6,124,262,375,8 212,135,500,358,17 81,117,205,373,14 245,125,498,372,14 295,92,496,262,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007479.jpg 5,24,500,261,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008992.jpg 17,125,338,375,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001752.jpg 3,4,375,500,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008010.jpg 217,83,387,220,12 245,63,338,195,14 320,100,404,319,15 426,137,500,301,15 87,124,124,248,15 1,82,37,265,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003810.jpg 101,135,240,358,13 236,127,369,288,13 1,137,87,248,6 337,102,372,145,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001975.jpg 147,88,227,163,14 254,84,361,184,14 295,91,411,216,14 389,106,492,276,14 89,87,136,195,14 23,88,153,311,14 2,156,153,375,14 104,157,458,375,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003192.jpg 5,30,230,288,15 233,36,489,284,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001791.jpg 10,19,381,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007486.jpg 1,66,408,207,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001578.jpg 26,96,346,293,18 338,121,443,268,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002065.jpg 79,39,391,256,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008206.jpg 119,32,304,234,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000882.jpg 82,37,500,357,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009118.jpg 145,157,387,322,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005736.jpg 11,142,260,300,13 311,117,488,228,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003390.jpg 147,116,403,340,6 104,73,143,250,14 1,71,61,375,14 45,89,80,168,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002924.jpg 281,3,475,322,15 1,17,252,319,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007813.jpg 51,184,231,293,11 270,82,500,274,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003491.jpg 31,15,419,347,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003334.jpg 19,98,383,285,6 235,55,490,182,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009619.jpg 210,137,306,251,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002599.jpg 70,43,425,364,13 1,100,161,316,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001090.jpg 18,159,474,287,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008842.jpg 203,107,267,162,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007595.jpg 117,37,370,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000563.jpg 164,165,450,210,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002348.jpg 186,135,299,253,0 61,114,179,230,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006890.jpg 11,40,500,311,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001127.jpg 42,125,203,330,11 195,136,295,288,11 283,113,496,241,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003730.jpg 165,45,285,319,13 292,73,377,253,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001133.jpg 1,208,433,375,17 264,159,404,375,14 181,192,273,375,14 64,202,184,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006489.jpg 104,90,351,331,14 217,72,499,331,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000952.jpg 15,95,246,332,14 196,103,412,332,14 465,189,492,236,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005619.jpg 1,1,500,375,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000775.jpg 75,265,452,459,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007026.jpg 1,153,443,335,0 243,191,489,297,0 121,132,316,190,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008473.jpg 2,10,397,354,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000748.jpg 47,100,440,246,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005195.jpg 65,235,93,305,4 369,112,493,303,14 227,99,332,209,14 1,105,130,252,14 12,199,416,333,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002188.jpg 2,19,500,375,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007966.jpg 209,105,346,349,14 109,95,245,349,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005803.jpg 67,156,433,273,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007231.jpg 103,87,387,253,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000210.jpg 443,211,468,235,14 15,214,37,240,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006846.jpg 106,94,331,470,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007594.jpg 111,191,482,375,12 62,71,190,351,14 150,111,225,215,14 185,74,351,368,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008843.jpg 120,106,483,332,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006067.jpg 41,184,291,257,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003679.jpg 38,53,432,302,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006932.jpg 312,245,385,375,14 249,57,306,132,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007392.jpg 86,83,259,333,14 116,160,226,475,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005585.jpg 334,96,389,276,14 21,131,303,344,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007386.jpg 1,47,500,321,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003686.jpg 117,40,475,374,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003862.jpg 128,144,383,322,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005022.jpg 209,104,274,140,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004328.jpg 44,117,147,265,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003321.jpg 441,148,495,191,6 302,162,355,191,6 246,167,275,189,6 89,176,145,195,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009624.jpg 205,59,274,209,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000827.jpg 214,153,250,199,9 250,160,310,202,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005961.jpg 58,391,294,485,5 306,431,324,478,14 333,426,351,477,14 360,419,375,472,14 115,421,166,500,14 25,457,75,500,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008289.jpg 1,84,423,375,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003492.jpg 100,2,500,366,12 134,84,458,366,14 39,96,143,366,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002940.jpg 337,122,498,370,9 247,110,279,139,9 1,4,234,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000170.jpg 87,100,109,165,4 41,114,73,181,4 324,148,352,206,4 3,91,43,206,14 4,28,461,372,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009632.jpg 312,268,396,333,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003337.jpg 71,146,365,210,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003860.jpg 1,1,458,212,3 319,110,448,310,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005587.jpg 244,113,332,208,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002388.jpg 134,3,500,326,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000574.jpg 160,208,354,355,16 243,291,313,341,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005356.jpg 1,1,500,375,14 75,181,245,375,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007555.jpg 377,148,500,172,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005829.jpg 41,15,189,327,14 174,92,363,327,14 372,137,500,327,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003257.jpg 22,14,476,222,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001326.jpg 27,1,500,375,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001455.jpg 125,176,345,374,1 147,124,300,345,14 51,125,92,187,14 100,122,153,182,14 415,89,500,126,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008317.jpg 74,44,392,375,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002612.jpg 237,6,463,375,13 1,10,288,374,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002809.jpg 293,241,375,337,19 1,248,106,376,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009948.jpg 1,2,315,500,14 2,281,303,500,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003732.jpg 2,203,57,454,14 21,217,128,499,14 67,1,375,500,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006138.jpg 2,78,238,216,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001657.jpg 291,258,408,361,11 323,72,433,280,8 1,43,339,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005419.jpg 100,111,237,419,12 85,74,240,262,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003068.jpg 75,98,422,326,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008897.jpg 182,79,378,336,14 435,1,500,43,19 295,41,433,220,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004934.jpg 178,11,500,333,7 2,2,499,332,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006845.jpg 171,257,246,331,8 257,222,298,265,8 323,224,369,272,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005237.jpg 25,15,487,229,17 169,9,307,197,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004129.jpg 2,34,460,319,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001737.jpg 8,27,476,315,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005545.jpg 43,177,84,243,19 46,247,83,396,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006702.jpg 274,108,496,227,0 37,180,199,238,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004667.jpg 1,93,265,291,6 242,65,500,316,6 355,11,444,214,14 311,18,495,400,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004101.jpg 3,199,374,500,17 3,173,235,305,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007408.jpg 1,10,341,408,18 345,243,364,309,14 313,244,356,341,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009425.jpg 210,22,343,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005753.jpg 428,64,499,243,19 373,79,436,226,19 45,59,235,372,14 3,128,50,190,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007144.jpg 3,25,500,270,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007622.jpg 2,1,497,330,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003444.jpg 36,91,304,263,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006528.jpg 168,1,500,210,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001521.jpg 45,396,188,500,14 134,131,230,462,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002028.jpg 249,214,327,253,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004459.jpg 99,202,118,251,14 47,202,64,244,14 2,12,500,267,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000617.jpg 11,85,500,375,10 353,1,500,239,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005009.jpg 423,11,500,246,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009196.jpg 1,2,500,287,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009810.jpg 23,61,468,259,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000834.jpg 304,85,369,125,9 10,96,100,154,9 69,123,177,174,9 98,245,390,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008501.jpg 220,304,236,344,14 192,301,210,344,14 171,299,188,333,14 133,293,149,324,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003440.jpg 79,92,333,500,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007626.jpg 34,110,473,266,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002038.jpg 117,415,242,452,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004461.jpg 11,36,482,330,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000161.jpg 104,34,446,390,6 68,195,121,288,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006510.jpg 75,110,437,293,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008529.jpg 1,349,265,500,10 109,196,277,439,10 4,189,150,367,14 62,170,142,293,14 114,157,191,277,14 177,150,248,234,14 247,157,330,251,14 266,194,375,425,14 242,312,375,500,14 8,108,45,172,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002004.jpg 37,111,190,275,19 204,157,322,301,19 5,279,103,419,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009390.jpg 6,19,406,328,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008930.jpg 2,59,375,500,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005233.jpg 318,146,407,247,14 368,122,498,332,14 1,160,126,362,14 11,133,167,242,14 176,106,220,164,14 377,223,498,373,8 284,205,306,286,4 207,158,223,207,4 233,165,249,211,4 98,196,373,371,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006060.jpg 263,69,500,333,14 1,165,349,333,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002560.jpg 8,1,156,394,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001069.jpg 264,75,438,136,6 1,117,117,181,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006841.jpg 196,147,376,307,9 386,106,436,284,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003093.jpg 160,233,180,315,15 139,218,167,320,15 370,223,397,316,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007593.jpg 65,146,403,443,13 74,30,343,361,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007236.jpg 181,41,325,268,5 179,165,218,264,14 465,131,482,171,14 433,123,450,154,14 151,109,164,137,14 75,126,96,167,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008663.jpg 1,106,496,328,6 242,60,277,105,14 111,115,141,135,14 383,89,412,131,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003736.jpg 84,58,392,375,8 393,153,500,375,8 134,59,340,375,14 145,181,205,274,4
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008893.jpg 27,122,321,286,18 362,114,487,192,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005409.jpg 2,1,291,331,12 255,77,463,334,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000571.jpg 174,189,282,298,19 92,207,146,278,19 222,285,345,398,19 300,132,330,170,19 264,130,288,156,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002372.jpg 165,224,312,383,3 273,288,343,380,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005186.jpg 139,173,210,293,8 408,181,467,269,8 32,165,129,301,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007961.jpg 320,150,441,199,6 48,159,135,218,6 193,199,500,333,6 396,177,500,268,6 87,168,179,252,6 157,123,243,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005804.jpg 223,178,444,350,17 384,2,500,352,15 2,91,58,177,15 134,89,185,171,15 61,130,81,175,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002158.jpg 29,143,293,246,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008461.jpg 261,135,355,171,6 154,161,358,224,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007752.jpg 354,168,409,245,8 192,106,306,234,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007008.jpg 6,16,323,278,9 200,110,329,281,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002617.jpg 46,134,125,232,8 13,129,67,220,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004500.jpg 60,105,253,241,9 2,128,151,270,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004514.jpg 196,18,456,275,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002603.jpg 185,99,304,245,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004272.jpg 163,146,367,394,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007035.jpg 170,95,418,315,12 283,49,375,177,14 1,1,150,323,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008312.jpg 36,143,266,440,13 173,79,341,401,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007948.jpg 77,122,485,255,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000564.jpg 86,150,500,333,10 43,106,58,147,4 6,103,19,142,4 366,149,479,333,8 231,163,392,333,8 1,165,162,333,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009226.jpg 128,1,351,209,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006101.jpg 287,34,459,395,14 182,76,306,395,14 73,67,205,395,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004716.jpg 29,133,207,287,19 212,5,404,307,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001646.jpg 305,121,409,319,3 132,82,286,318,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006897.jpg 83,121,385,411,12 175,100,311,261,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005434.jpg 72,98,192,307,7 1,2,129,320,8
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003910.jpg 29,187,362,242,3 161,122,274,220,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006868.jpg 79,185,341,372,6 52,193,168,259,6 235,181,325,372,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003092.jpg 154,46,440,247,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006854.jpg 2,18,375,426,6 313,22,375,83,6 1,12,77,80,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003938.jpg 217,123,422,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007586.jpg 1,145,241,248,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006698.jpg 245,1,495,375,14 70,128,387,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001691.jpg 388,2,500,124,5 273,1,390,78,5 82,2,189,63,5 455,23,480,99,14 323,29,349,98,14 233,32,258,85,14 207,29,230,82,14 190,46,208,82,14 130,32,153,66,14 59,27,79,65,14 77,18,97,64,14 48,26,61,67,14 35,29,54,68,14 1,18,19,69,14 16,20,37,70,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002398.jpg 80,110,250,434,12 82,85,218,291,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000376.jpg 229,150,265,175,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001068.jpg 33,23,461,316,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009434.jpg 16,82,482,301,6 354,15,433,105,14 209,7,284,82,14 160,1,208,45,14 395,1,472,61,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009346.jpg 60,123,220,305,7 243,105,437,317,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004662.jpg 3,179,223,473,12 185,122,290,451,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002213.jpg 51,54,369,371,12 161,11,264,250,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008070.jpg 2,34,341,500,14 33,129,99,322,14 14,132,56,315,14 90,143,117,249,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007343.jpg 28,1,500,394,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004892.jpg 357,168,418,275,8 273,186,338,277,8 190,202,252,280,8 140,209,195,284,8 1,279,443,375,10 2,179,441,375,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001040.jpg 126,125,229,332,14 135,112,366,331,14 362,200,479,333,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003657.jpg 198,221,360,292,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001901.jpg 192,261,247,390,8 233,258,308,400,8 238,266,312,413,10
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004474.jpg 143,30,431,375,9 8,50,82,143,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001518.jpg 23,149,135,205,17 46,159,183,224,17 76,167,245,255,17 138,188,366,311,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000148.jpg 131,112,465,312,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007155.jpg 54,138,444,284,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005024.jpg 1,71,176,375,14 150,2,500,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008500.jpg 1,42,424,197,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002978.jpg 435,113,465,153,9 262,112,422,262,9 2,129,232,322,9
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009193.jpg 8,221,494,375,17 24,167,242,344,14 82,248,272,374,14 298,51,500,358,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002944.jpg 15,15,302,369,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005795.jpg 2,32,487,500,16
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006288.jpg 130,167,297,375,14 97,45,493,372,14 298,169,401,245,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007180.jpg 89,85,138,139,15 50,97,88,139,15 2,112,50,139,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000837.jpg 261,65,365,159,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003494.jpg 1,22,500,260,0 58,206,118,375,14 417,206,500,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002952.jpg 122,253,437,374,19 93,113,433,284,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003325.jpg 23,12,217,374,11 332,128,500,375,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005754.jpg 8,201,180,372,17 195,189,278,298,8 408,198,455,276,14 464,174,500,280,14 196,223,214,266,15 295,146,366,203,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003457.jpg 1,109,375,483,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000638.jpg 1,24,355,323,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002761.jpg 166,80,376,332,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009146.jpg 155,78,359,337,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002013.jpg 248,125,500,333,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003899.jpg 124,117,318,297,11 452,133,500,239,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003127.jpg 3,2,499,350,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007341.jpg 458,319,500,375,14 296,332,352,375,14 65,70,448,239,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006063.jpg 60,88,309,310,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000406.jpg 54,285,114,313,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006077.jpg 157,142,302,222,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008660.jpg 264,29,466,243,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003735.jpg 154,33,254,193,14 410,89,473,200,14 75,78,405,330,12 382,129,480,270,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007221.jpg 32,33,436,372,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002359.jpg 12,114,351,375,11
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005436.jpg 349,124,466,182,13 37,141,172,210,13
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000228.jpg 92,82,314,228,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006659.jpg 180,99,231,305,3 404,143,500,375,14 248,213,397,375,14 219,192,300,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004714.jpg 139,51,256,224,8 2,43,77,203,8 317,75,408,149,15 219,161,260,214,15 127,232,217,274,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001491.jpg 2,95,199,230,6 93,97,433,266,6 448,108,500,260,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005146.jpg 394,102,492,279,1 306,134,390,282,1 13,143,91,274,1 125,127,197,277,1 181,138,280,280,1 12,53,93,271,14 129,79,219,270,14 213,49,299,274,14 284,36,356,276,14 394,28,484,267,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000994.jpg 47,124,153,213,19 310,147,419,236,8 210,188,472,374,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009026.jpg 36,305,169,365,3
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009740.jpg 175,155,298,236,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000002.jpg 139,200,207,301,18
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003278.jpg 20,278,82,375,4 15,26,287,284,14 257,7,500,337,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009741.jpg 1,216,42,328,8 109,233,199,363,8 185,77,428,372,14 133,180,205,308,14 189,196,220,242,14 103,217,134,273,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009796.jpg 285,78,408,368,14 182,99,322,375,14 104,85,351,233,14 76,92,200,375,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006670.jpg 33,181,410,465,18 432,300,474,426,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008885.jpg 1,42,350,496,7
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008846.jpg 192,96,439,259,7 449,1,500,165,15
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/007591.jpg 25,89,311,419,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004107.jpg 96,259,407,354,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006704.jpg 34,1,341,213,19
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009351.jpg 123,2,500,375,0
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000413.jpg 139,149,270,344,14 68,288,128,375,14 1,209,73,375,14 159,6,443,364,12
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/003898.jpg 103,75,157,104,2 152,87,199,110,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/006738.jpg 208,135,274,283,14 72,159,114,250,14 212,199,277,314,1 79,196,118,261,1
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/008098.jpg 73,176,100,192,6 267,156,362,198,6 360,163,486,214,6 298,133,395,181,5 98,113,230,213,5
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/002589.jpg 140,140,228,272,8 183,67,225,134,8 18,91,111,275,14 208,145,349,300,14 157,95,242,286,14 226,49,316,237,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/000605.jpg 321,175,386,192,6
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/004311.jpg 253,166,271,204,4 271,158,284,202,4 281,115,355,196,15 71,44,221,487,14
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005755.jpg 80,27,401,237,17 6,181,500,400,17
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/009609.jpg 213,90,400,175,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/005033.jpg 107,122,478,348,2
+/home/trq/data/Algorithm_model/DeepLearning-CV/yolov1/VOCdevkit/VOC2007/JPEGImages/001296.jpg 179,47,333,300,14 72,95,408,328,13
